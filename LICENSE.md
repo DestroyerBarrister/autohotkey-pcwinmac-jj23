@@ -1,4 +1,4 @@
-# 
+# Personnalisé AutoHotkey scripts pour Mac OS | Automatique AutoHotkey scripts pour PC Windows. Avec optimisation du registre et support multi-formats — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
